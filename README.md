@@ -121,7 +121,6 @@ Some possible future improvements include:
 - improving the exploration noise schedule;
 - saving and loading trained models;
 - adding command-line arguments for training settings;
-- comparing DDPG with PPO and other continuous control algorithms;
 - testing the implementation on additional continuous control environments.
 
 ## License
